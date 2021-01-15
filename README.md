@@ -1,1 +1,1 @@
-# HD_Items_Icons
+# FINAL FANTASY XIV - HD Icons Project
