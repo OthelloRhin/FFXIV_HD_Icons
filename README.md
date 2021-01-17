@@ -1,6 +1,5 @@
-# FINAL FANTASY XIV - HD Icons Project <br>
-
+# FINAL FANTASY XIV - HD Icons Project
 
 Pré-requis :
-- XIVLauncher (https://github.com/goatcorp/FFXIVQuickLauncher).
-- Plugin Penumbra (https://github.com/xivdev/Penumbra).
+- <a href="https://github.com/goatcorp/FFXIVQuickLauncher">XIVLauncher</a>.
+- <a href="https://github.com/xivdev/Penumbra">Plugin Penumbra </a>.
