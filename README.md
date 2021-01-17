@@ -6,4 +6,4 @@
 		- <a href="https://github.com/goatcorp/FFXIVQuickLauncher"><b>XIVLauncher</b></a>.<br>
 		- <a href="https://github.com/xivdev/Penumbra"><b>Plugin Penumbra</b></a>.<br>
 	</p>
-</h2>
+</h4>
