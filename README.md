@@ -1,6 +1,6 @@
 # FINAL FANTASY XIV - HD Icons Project
 
-<h2>
+<h4>
 	<p>
 		Prerequisites:<br>
 		- <a href="https://github.com/goatcorp/FFXIVQuickLauncher"><b>XIVLauncher</b></a>.<br>
