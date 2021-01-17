@@ -2,8 +2,8 @@
 
 <h2>
 	<p>
-		Prerequisites:
-		- <a href="https://github.com/goatcorp/FFXIVQuickLauncher"><b>XIVLauncher</b></a>.
-		- <a href="https://github.com/xivdev/Penumbra"><b>Plugin Penumbra</b></a>.
+		Prerequisites:<br>
+		- <a href="https://github.com/goatcorp/FFXIVQuickLauncher"><b>XIVLauncher</b></a>.<br>
+		- <a href="https://github.com/xivdev/Penumbra"><b>Plugin Penumbra</b></a>.<br>
 	</p>
 </h2>
