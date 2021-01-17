@@ -1,4 +1,4 @@
-<h1>FINAL FANTASY XIV - HD Icons Project</h1>
+# FINAL FANTASY XIV - HD Icons Project
 
 <h2>
 	<p>
