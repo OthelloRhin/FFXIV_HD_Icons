@@ -26,7 +26,7 @@ Replace the macro icons with HD versions of this one.
 * **HUD Revamp** : 
 An extremely anticipated version of a "cleaner" interface for the game.
 
-## Why this project?:
+## Why this project?
 
 Because ? ^^"  
 No more seriously, the idea came to me to test if replacing the icons of the game was possible when one of the first version of TexTools was released.  
@@ -53,6 +53,6 @@ I do it without hesitation.
 
 (and yes, I prefer ease of use rather than "first come" in the field ...)
 
-## Help?! :
+## Help?!
 All help is welcome!  
 Not having the knowledge for, if anyone knows of a way to efficiently retrieve Lodestone icons with the corresponding id I would be immensely grateful. ♥
