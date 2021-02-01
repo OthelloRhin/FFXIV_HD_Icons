@@ -29,7 +29,7 @@ An extremely anticipated version of a "cleaner" interface for the game.
 ## Why this project?
 
 Because ? ^^"  
-No more seriously, the idea came to me to test if replacing the icons of the game was possible when one of the first version of TexTools was released.  
+No, more seriously, the idea came to me to test if replacing the icons of the game was possible when one of the first version of TexTools was released.  
 
 Having a clear tendency to enlarge certain interface elements beyond 100% (or leave them at 100%) I could only see the rendering far below what the game was able to render for the icons.  
 
@@ -38,8 +38,6 @@ Also being able to see on my husband's screen that some icons were clearly "disg
 This gave me the impetus to embark on this terribly long and sometimes laborious task (Special mention for the change of the indexes of the icons from one update to another ... I was delighted! ><).
 
 ## Why migrate to Penumbra?
-To meet the fans of TexTools.  
-
 The reason is simple, and if you know my project from the beginning on Nexus and XIX Mod Archive you might remember it.  
 
 The problem of the installation lasting an eternity having been solved, this is no longer the problem ...  
@@ -49,10 +47,10 @@ What Penumbra does not do at any time.
 Installing a mod can be done on the fly and the game files will not be corrupted.  
 
 So yes, if in order to avoid being held responsible for something wrong with someone's game files I have to lose hardcore software users.  
+
 I do it without hesitation.  
 
 (and yes, I prefer ease of use rather than "first come" in the field ...)
-
 ## Help?!
 All help is welcome!  
 Not having the knowledge for, if anyone knows of a way to efficiently retrieve Lodestone icons with the corresponding id I would be immensely grateful. ♥
