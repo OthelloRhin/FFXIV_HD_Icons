@@ -18,7 +18,7 @@ Replaces all action, skill, trait icons (FFXIV 5.25).
 Replaces all buff / debuff icons (FFXIV 5.25).
 
 * **HD Gear Set** :  
-Replaces the Gear Set icons with HD and colorful versions (colors corresponding to class / job types)
+Replaces the Gear Set icons with HD and colorful versions (colors corresponding to class / job types).
 
 * **HD Macro Icons** :  
 Replace the macro icons with HD versions of this one.
