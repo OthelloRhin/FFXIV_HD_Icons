@@ -7,23 +7,23 @@
 ## Description
 This compilation of mods aims to embellish a little FINAL FANTASY XIV.
 
-* **HD Items Icons** :  
+* **HD Items Icons** : *(pending project)*
 Replaces almost all the icons in the game by the one available on the Lodestone (FFXIV 5.41).  
 Therefore this excludes key objects for example.
 
-* **HD Skills Icons** :  
+* **HD Skills Icons** : *(pending project)*
 Replaces all action, skill, trait icons (FFXIV 5.25).
 
-* **HD Buffs Icons** :  
+* **HD Buffs Icons** : *(pending project)*
 Replaces all buff / debuff icons (FFXIV 5.25).
 
-* **HD Gear Set** :  
+* **HD Gear Set** :
 Replaces the Gear Set icons with HD and colorful versions (colors corresponding to class / job types).
 
-* **HD Macro Icons** :  
+* **HD Macro Icons** : *(pending project)*
 Replace the macro icons with HD versions of this one.
 
-* **HUD Revamp** :  
+* **HUD Revamp** :
 An extremely anticipated version of a "cleaner" interface for the game.
 
 ## Why this project?
