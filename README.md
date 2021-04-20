@@ -5,9 +5,6 @@
 * **[Plugin Penumbra](https://github.com/xivdev/Penumbra "Plugin Penumbra")**
 
 ## Description
-This compilation of mods aims to embellish a little FINAL FANTASY XIV.
-
-* **HUD Revamp** :  
 An extremely anticipated version of a "cleaner" interface for the game.
 
 Replaces the Gear Set and category icons with HD and colorful versions (colors corresponding to class / job types).
